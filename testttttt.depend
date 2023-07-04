@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1688408311 source:c:\users\alex\desktop\testttttt\main.cpp
+	"meniu.h"
+
+1673856918 c:\users\alex\desktop\testttttt\meniu.h
+	<iostream>
+	<string>
+	"exceptii.h"
+	<vector>
+	"spectacol.h"
+	"tip_spectacol.h"
+	"spectator.h"
+	<cstdlib>
+	"logare.h"
+	"Teatru.h"
+
+1673858918 c:\users\alex\desktop\testttttt\exceptii.h
+	<iostream>
+	<typeinfo>
+	<regex>
+
+1673851968 c:\users\alex\desktop\testttttt\spectacol.h
+	<iostream>
+	<string>
+
+1673591118 c:\users\alex\desktop\testttttt\tip_spectacol.h
+	<iostream>
+	<string>
+	"exceptii.h"
+	<vector>
+	"spectacol.h"
+
+1673819538 c:\users\alex\desktop\testttttt\spectator.h
+	<iostream>
+	<string>
+	"exceptii.h"
+	<vector>
+	"pofte_si_exigente.h"
+	<conio.h>
+
+1672884486 c:\users\alex\desktop\testttttt\pofte_si_exigente.h
+	<iostream>
+	<string>
+	"exceptii.h"
+	<vector>
+
+1673853128 c:\users\alex\desktop\testttttt\logare.h
+	"spectator.h"
+	"admin.h"
+	<conio.h>
+
+1673134538 c:\users\alex\desktop\testttttt\admin.h
+	<iostream>
+	<string>
+	"exceptii.h"
+	<vector>
+
+1673851830 c:\users\alex\desktop\testttttt\teatru.h
+	"spectacol.h"
+	<string>
+	<vector>
+	"exceptii.h"
+	"tip_spectacol.h"
+
+1673757736 source:c:\users\alex\desktop\testttttt\admin.cpp
+	"admin.h"
+
+1673753196 source:c:\users\alex\desktop\testttttt\exceptii.cpp
+	"exceptii.h"
+	<iostream>
+
+1673136720 source:c:\users\alex\desktop\testttttt\logare.cpp
+	"logare.h"
+
+1673858842 source:c:\users\alex\desktop\testttttt\meniu.cpp
+	"meniu.h"
+
+1672883870 source:c:\users\alex\desktop\testttttt\pofte_si_exigente.cpp
+	"pofte_si_exigente.h"
+
+1673761066 source:c:\users\alex\desktop\testttttt\spectacol.cpp
+	"spectacol.h"
+	"exceptii.h"
+
+1673858842 source:c:\users\alex\desktop\testttttt\spectator.cpp
+	"spectator.h"
+
+1673851982 source:c:\users\alex\desktop\testttttt\teatru.cpp
+	"Teatru.h"
+
+1673858842 source:c:\users\alex\desktop\testttttt\tip_spectacol.cpp
+	"tip_spectacol.h"
+
